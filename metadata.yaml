@@ -1,0 +1,31 @@
+_repo: A-Classified-Catalogue-of-Works-in-General-Literature-Published-by-Longmans-Green--amp--Co._39677
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longmans, Green, and Co.
+    aliases:
+    - Longmans, Green, and Company
+    - Longmans, Green, & Company
+    - Messrs. Longmans, Green & Company
+    - Longmans, Green, & Co.
+    gutenberg_agent_id: '40921'
+    url: http://www.gutenberg.org/2009/agents/40921
+description: ''
+gutenberg_issued: '2012-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Longmans, Green, and Co. -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+title: A Classified Catalogue of Works in General Literature Published by Longmans,
+  Green, & Co.
+url: http://www.gutenberg.org/ebooks/39677
